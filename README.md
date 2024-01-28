@@ -3,3 +3,5 @@
 Estado del proyecto, en Construccion!
 
 Para ejecutar el sistema debes poner:
+
+actualizo el readme
